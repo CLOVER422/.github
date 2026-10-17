@@ -40,7 +40,7 @@ This organization contains the projects developed by Team Clover, including expe
 
 Explore our repositories to discover what we are building, what we are learning, and what we plan to create next.
 
-👉 **[Explore All Repositories](https://github.com/orgs/clover/repositories)**
+👉 **[Explore All Repositories](https://github.com/orgs/CLOVER422/repositories)**
 
 Each project has its own goals, technologies, and documentation. Check the individual repository's README for setup instructions, features, and contribution guidelines.
 
